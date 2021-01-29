@@ -1,0 +1,100 @@
+
+
+
+
+body {
+    background-size: auto;
+    background-repeat: repeat;
+    background-position: fixed;
+} 
+
+
+
+.main {
+    background-color:rgb(236, 236, 234);
+}
+.container{
+    margin: 10px;
+    
+}
+    
+h1 {margin: 10px;
+    margin-top: 60px;
+}
+
+h2 {font-size:30px;
+    color:blue;
+    margin: 10px;
+}
+
+p {padding: 10px;
+margin: 10px;
+font-size: 20px;
+}
+
+.text {
+padding-top: 10px;
+margin-top: 10px;
+}
+
+.mb-3 {
+    border: 5px solid red;
+    padding: 10px;
+    margin: 10px;
+    height: 50;
+    width: 50;
+}
+
+.navbar {padding-top: 0px;
+        padding-bottom: 0px;
+}
+
+.navbar-collapse {
+    align-items: center;
+    width: 30%;
+}
+.container-fluid {
+    background-color:rgb(74, 174, 192);
+    color: white !important;
+    margin-bottom: 0px;
+}
+.navbar-brand {
+    color: white;
+    font-size:30px;
+}
+
+.navbar-nav {
+    color: white;
+}
+.nav-link {
+    color: white;
+    font-size:30px;
+}
+
+#profilePic { 
+    border: 5px solid red;
+    float: left;
+    padding: 0px;
+    margin: 27px;
+    margin-bottom: 10px;
+    height: 200px;
+}
+.portfoliopic { 
+    border: 5px solid red;
+    float: left;
+    padding: 10px;
+    margin: 20px;
+    height: 350px;
+}
+
+
+.footer  {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color:rgb(83, 83, 83);
+    text-align: center;
+    font-size: 10px;
+    margin-top: 5px;
+ }
